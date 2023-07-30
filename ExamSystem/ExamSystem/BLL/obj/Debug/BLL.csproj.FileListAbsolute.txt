@@ -1,0 +1,11 @@
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\bin\Debug\BLL.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\bin\Debug\DAL.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\bin\Debug\Entity.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\bin\Debug\DAL.pdb
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\bin\Debug\Entity.pdb
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\obj\Debug\BLL.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\BLL\obj\Debug\BLL.pdb

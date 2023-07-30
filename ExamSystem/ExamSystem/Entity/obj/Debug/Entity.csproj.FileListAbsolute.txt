@@ -1,0 +1,6 @@
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\Entity\bin\Debug\Entity.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\Entity\obj\Debug\Entity.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\bin\Debug\DAL.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\bin\Debug\Entity.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\bin\Debug\Entity.pdb
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\obj\Debug\DAL.dll
+C:\Users\Ajax\Desktop\ExamSystem\ExamSystem\DAL\obj\Debug\DAL.pdb
